@@ -1,0 +1,12 @@
+Fotos del sitio (WebP, menos de 300 KB cada una). Se declaran en assets/config.js.
+
+Nombres:
+  hero, tienda, nosotros, cat_vestido, cat_top, cat_casaca, cat_pantalon
+  Prendas: v1..v3, b1..b6, c1..c5, p1..p5
+  Fotos extra de una prenda: v1_2, v1_3 ... (miniaturas en la ficha; la _2 se ve al pasar el mouse)
+  Foto por color: v1_Terracota, v1_Verde ... (cambia al elegir ese color; si falta, se usa la principal)
+  Looks de temporada: lk1 ... lk7
+  og.jpg: imagen de vista previa al compartir el enlace (1200x630)
+
+Para cambiar una foto: reemplaza el archivo con el mismo nombre (o cambia la ruta en config.js).
+Tamaño recomendado de prendas: 900x1200 (3:4). Comprime en squoosh.app (WebP, calidad 75-80).
